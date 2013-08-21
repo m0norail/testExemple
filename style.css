@@ -1,0 +1,32 @@
+/*
+ Author: Alexander Berglund
+ 
+ Contact: alexander.berglund@gbg.nti.se
+ 
+ Description: Documentation of your work is crucial. Don't forget this.
+ This CSS-document was created with purpose of set a foundation for what you can
+ do with the technology and is to considered as such.
+ 
+*/
+
+body {
+ background-color: #000;
+ color: #fff;
+}
+
+#helloworld {
+ border: 1px solid #f00;
+}
+
+.informationbox {
+ color: #f00;
+}
+
+ // CSS Comment for one line
+ 
+  /*
+  
+  Multiple line comment.
+  Don't forget to close it.
+ 
+ */
