@@ -10,12 +10,12 @@
 */
 
 body {
- background-color: #000;
- color: #fff;
+ background-color: #4bd4ed;
+ color: #fffff;
 }
 
-#helloworld {
- border: 1px solid #f00;
+#container {
+ border: 1px solid #ff0000;
 }
 
 .informationbox {
